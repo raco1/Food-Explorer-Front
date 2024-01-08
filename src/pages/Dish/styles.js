@@ -57,15 +57,14 @@ export const Container = styled.div`
                     font-family: Poppins;
                     font-style: normal;
                     line-height: 140%;
+                    text-align: center;
                 }
 
                 > h2 {
                     font-size: 2.25rem;
-                    font-weight: 500;
-                    
+                    font-weight: 500;    
                 }
                 > p {
-                    text-align: center;
                     font-size: 1.33rem;
                     font-weight: 400;
                 }

@@ -45,12 +45,11 @@ As tecnologias usadas na primeira versão do projeto são:
 
 Clone o projeto para o local desejado em sua máquina.
 
-    - $ git clone https://github.com/raco1/Desafio-Final-Explorer.git
+    - $ git clone https://github.com/raco1/Food-Explorer-Front.git
 
 💻 Executando o Front-End:
 
-    # Navegue até o diretório do Front-End:
-    $ cd front
+    # Navegue até o diretório do Front-End
 
     # Instale as dependências necessárias:
     $ npm install
@@ -62,7 +61,7 @@ Clone o projeto para o local desejado em sua máquina.
 
     http://localhost:5173/
 
-✔️ O Front-End foi hospedado no Netlify
+✔️ O Front-End foi hospedado no Netlify.
 ## 🙂 Autor
 
 Feito por Rafael Coelho Reis, [@raco1](https://www.github.com/raco1)! Acompanhe-me no LinkedIn: [Rafael Coelho](https://www.linkedin.com/in/rafael-coelho-reis-873181204/) 👋

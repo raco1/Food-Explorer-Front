@@ -7,9 +7,9 @@ Esse projeto é o Front-end do Desafio Final da Trila Explorer da plataforma de 
 ## 🔍 Índice
 
 -  <a href="#-aviso">Aviso</a>
--  <a href="#-screenshots">Pré-visualização</a>
+-  <a href="#-pré-visualização">Pré-visualização</a>
 -  <a href="#-tecnologias">Tecnologias</a>
--  <a href="#-como-utilizar">Como utilizar</a>
+-  <a href="#-comoutilizar">Como utilizar</a>
 -  <a href="#-autor">Autor</a>
 -  <a href="#-licença">Licença</a>
 
@@ -19,9 +19,14 @@ Esse projeto é o Front-end do Desafio Final da Trila Explorer da plataforma de 
 Esta é a primeira versão, apenas com o necessário para a entrega do desafio. Haverão updates envolvendo outras tecnologias, das quais não pude aplicar nesta versão, e funcionalidades mais elaboradas.
 
 ## 🎨 Pré-visualização
-
-Insira um gif ou um link de alguma demonstração
-
+Teste Mobile
+<div align="center">
+    <img src="https://github.com/raco1/Food-Explorer-Front/assets/113068055/8259b388-1876-4c8e-b0d6-1d41a7c1f587" width="740px" />
+</div>
+Teste no PC
+<div align="center">
+    <img src="https://github.com/raco1/Food-Explorer-Front/assets/113068055/7402fdc2-d914-46fe-b8a6-982aecedb00e" width="740px" />
+</div>
 
 ## 🛠 Tecnologias
 
@@ -36,6 +41,7 @@ As tecnologias usadas na primeira versão do projeto são:
 - React Icons
 - Swiper
 - React Router Dom
+
 ## ❗️Como utilizar
 
 Clone o projeto para o local desejado em sua máquina.

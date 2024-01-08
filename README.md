@@ -9,7 +9,7 @@ Esse projeto é o Front-end do Desafio Final da Trila Explorer da plataforma de 
 -  <a href="#-aviso">Aviso</a>
 -  <a href="#-pré-visualização">Pré-visualização</a>
 -  <a href="#-tecnologias">Tecnologias</a>
--  <a href="#-como-utilizar">Como utilizar</a>
+-  <a href="#-%EF%B8%8Fcomo-utilizar">Como utilizar</a>
 -  <a href="#-autor">Autor</a>
 -  <a href="#-licença">Licença</a>
 

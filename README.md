@@ -35,7 +35,6 @@ As tecnologias usadas na primeira versão do projeto são:
 - ReactJs
 - JavaScript
 - Vite
-- BCryptjs
 - Axios
 - Styled Components
 - React Icons
